@@ -1,0 +1,11 @@
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Projeto-POO-07.05\Projeto-POO-07.05\bin\Debug\Projeto-POO-07.05.exe.config
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Projeto-POO-07.05\Projeto-POO-07.05\bin\Debug\Projeto-POO-07.05.exe
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Projeto-POO-07.05\Projeto-POO-07.05\bin\Debug\Projeto-POO-07.05.pdb
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Projeto-POO-07.05\Projeto-POO-07.05\obj\Debug\Projeto-POO-07.05.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Projeto-POO-07.05\Projeto-POO-07.05\obj\Debug\Projeto_POO_07._05.Form1.resources
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Projeto-POO-07.05\Projeto-POO-07.05\obj\Debug\Projeto_POO_07._05.frmTabuada.resources
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Projeto-POO-07.05\Projeto-POO-07.05\obj\Debug\Projeto_POO_07._05.Properties.Resources.resources
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Projeto-POO-07.05\Projeto-POO-07.05\obj\Debug\Projeto-POO-07.05.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Projeto-POO-07.05\Projeto-POO-07.05\obj\Debug\Projeto-POO-07.05.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Projeto-POO-07.05\Projeto-POO-07.05\obj\Debug\Projeto-POO-07.05.exe
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\Projeto-POO-07.05\Projeto-POO-07.05\obj\Debug\Projeto-POO-07.05.pdb
